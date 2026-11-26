@@ -1,0 +1,1 @@
+<img src="{{ asset('img/logo1.jpg') }}" alt="Logo de Casa Colonial" class="w-full h-full object-contain" {{ $attributes }}>
